@@ -1,5 +1,5 @@
 """
-Program perulangan menonton DVD
+Program perulangan menonton DVD dengan menggunakan FOR
 """
 
 jumlahDVD = 100
