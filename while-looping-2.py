@@ -23,3 +23,7 @@ if dipahami == jumlahFilm:
 else:
     print(f"Tidak semua film bisa dipahami. "
           f"Saya hanya bisa memahami {dipahami} film")
+
+# dynamically static variable
+jumlahFilm = 'banyak'
+print(jumlahFilm)
